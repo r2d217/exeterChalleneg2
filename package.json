@@ -1,0 +1,20 @@
+{
+  "name": "nodeexeter",
+  "version": "1.0.0",
+  "description": "Exeter",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^3.19.1",
+    "html-table-builder": "^1.0.1",
+    "table": "^6.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "rohanKiran",
+  "license": "ISC"
+}
